@@ -63,7 +63,7 @@ const add = (a, b) => a + b
 🤖 **Robots think about their ideas!**<br>
 If you have an idea, don't just think about it. You will learn more from trying to make it!
 ```js
-I have an idea for adding two numbers together... but I haven't made it yet!
+// I have an idea for adding two numbers together... but I haven't made it yet!
 ```
 
 ## Attachment
