@@ -70,7 +70,7 @@ If you have an idea, don't just think about it. You will learn more from trying 
 🐸 **Frogs delete their old code!**<br>
 Delete your code if you need to! Every line of code is temporary! Every line of code is waiting to be replaced by something better!
 ```js
-// I deleted my old bad code and replaced it with this new good code!
+// I deleted my old code and replaced it with this new code!
 const add = (a, b) => a + b
 ```
 
