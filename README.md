@@ -4,7 +4,7 @@ This is a work-in-progress!
 
 This is the Way of Tode!<br>
 It's how true todes write code.<br>
-Are you a total tode 🐸? or a reliable robot 🤖?<br>
+Are you a total tode 🐸? or a rigid robot 🤖?<br>
 
 ## Style
 🐸 **Todes mix styles!**<br>
