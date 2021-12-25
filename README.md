@@ -5,7 +5,6 @@ This is a work-in-progress!
 This is the Way of Tode!<br>
 It's how true todes write code.<br>
 Are you a total tode 🐸? or a reliable robot 🤖?<br>
-(NOTE: It's ok to be a robot! This is just how I like to do my hobby projects!)
 
 ## Style
 🐸 **Todes mix styles!**<br>
