@@ -11,7 +11,7 @@ I don't always follow the Way of Tode. But when I do, it helps me to do two thin
 Here is a haiku explaining my thoughts and feelings on the matter:
 <p align="center">
 	<i>sometimes I write code<br>
-	like a rigid robot 🤖<br>
+	like I'm a rigid robot 🤖<br>
 	it works pretty well<br>
 <br>
 	but I much prefer<br>
