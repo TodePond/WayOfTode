@@ -84,6 +84,20 @@ const add = (...ns) => ns.reduce((a, b) => a + b, 0)
 const addTwoNumbers = (a, b) => a + b
 ```
 
+## Contributions
+🐸 **Frogs make contributions and welcome help from others!**<br>
+Whether it's an answer on StackOverflow or a Pull Request on your Repo, frogs welcome all sorts of features and bug-fixes from others!
+```js
+// Credit to Magnogen for this fix!
+const addNums = (a, b) => parseFloat(a) + parseFloat(b)
+```
+
+🤖 **Robots are rigid and don't want help from others!**<br>
+None of us are perfect - we're all bound to have problems from time to time, collaborating with others will help to reduce the bugs!
+```js
+const add = (a, b) => a + b // why isn't this working?!
+```
+
 ## TO BE CONTINUED
 Notes:<br>
 🐸 **Try to write code that can be understood by a kid.**<br>
