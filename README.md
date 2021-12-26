@@ -2,9 +2,21 @@ This is a work-in-progress!
 
 # Way of Tode
 
-This is the Way of Tode!<br>
-It's how true todes write code.<br>
-Are you a total tode 🐸? or a rigid robot 🤖?<br>
+This is the **Way of Tode**!<br>
+It's the approach I like to use when I code creative hobby projects.<br>
+I don't always follow the Way of Tode. But when I do, it helps me to do two things:<br>
+🐸 Have fun!<br>
+🐸 Be fast!<br>
+
+<p align="center">
+	<i>sometimes I write code<br>
+	like a rigid robot 🤖<br>
+	it works pretty well<br>
+<br>
+	but I much prefer<br>
+	to write my code like a tode 🐸<br>
+	it's a lot more fun<br></i>
+</p>
 
 ## Style
 🐸 **Todes mix styles!**<br>
@@ -53,7 +65,7 @@ const add = (...ns) => ns.reduce((a, b) => a + b, 0)
 ```
 
 ## Thinking
-🐸 **Frogs prototype ideas!**<br>
+🐸 **Todes prototype ideas!**<br>
 If you have an idea, make it NOW! You will learn something from it!
 ```js
 // This is my idea for adding two numbers together!
@@ -67,15 +79,15 @@ If you have an idea, don't just think about it. You will learn more from trying 
 ```
 
 ## Attachment
-🐸 **Frogs delete their old code!**<br>
-Delete your code if you need to! Every line of code is temporary! Every line of code is waiting to be replaced by something better!
+🐸 **Todes delete their old code!**<br>
+Delete your code if you need to.
 ```js
 // I deleted my old code and replaced it with this new code!
 const add = (a, b) => a + b
 ```
 
 🤖 **Robots keep their old code!**<br>
-Don't grow attached to your code! If you want to improve it, delete it!
+Don't grow attached to your code. Every line of code is temporary. Every line of code is waiting to be replaced by something better.
 ```js
 // This is my old code! I don't want to delete it!
 const add = (...ns) => ns.reduce((a, b) => a + b, 0)
