@@ -25,20 +25,29 @@ Here is a haiku explaining my thoughts and feelings on the matter:
 
 # Part 1: Mindset
 ## Scope
-🐸 **Todes make what they need!**<br>
+<details>
+<summary>
+	🐸 <b>Todes make what they need!</b>
+</summary>
+
 Make what you need (nothing more, nothing less).
 ```js
 // We need to add two numbers together!
 const add = (a, b) => a + b
 ```
 
-🤖 **Robots make what they might need!**<br>
+</details>
+
+<details><summary>🤖 <b>Robots make what they might need!</b></summary>
+
 Don't spend time making what you might never need.
 ```js
 // We need to add two numbers together! We MIGHT need to add together more than two numbers!
 const add = (...ns) => ns.reduce((a, b) => a + b, 0)
 ```
 
+</details>
+	
 ## Ideas
 🐸 **Todes prototype ideas!**<br>
 If you have an idea, make it NOW. You will learn something from it.
