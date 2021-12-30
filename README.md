@@ -20,8 +20,8 @@ Here is a haiku explaining my thoughts and feelings on the matter:
 </p>
 
 # Contents 
-**Part 1**: Mindset<br>
-**Part 2**: Style
+**Part 1**: [Mindset](#part-1-mindset)<br>
+**Part 2**: [Style](#part-2-style)<br>
 
 # Part 1: Mindset
 ## Scope
@@ -116,7 +116,6 @@ const subtract = (a, b) => {
 	return a - b
 }
 ```
-
 
 ## TO BE CONTINUED
 Notes:<br>
