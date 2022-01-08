@@ -18,4 +18,5 @@ Here's a haiku:
 	it's a lot more fun<br></i>
 </p>
 
-Keep it simple, humble and fun.
+# Summary
+Keep it simple.
