@@ -25,28 +25,19 @@ Here is a haiku explaining my thoughts and feelings on the matter:
 
 # Part 1: Mindset
 ## Scope
-<details>
-<summary>
-	🐸 <b>Todes make what they need!</b>
-</summary>
-
+🐸 <b>Todes make what they need!</b><br>
 Make what you need (nothing more, nothing less).
 ```js
 // We need to add two numbers together!
 const add = (a, b) => a + b
 ```
 
-</details>
-
-<details><summary>🤖 <b>Robots make what they might need!</b></summary>
-
+🤖 <b>Robots make what they might need!</b><br>
 Don't spend time making what you might never need.
 ```js
 // We need to add two numbers together! We MIGHT need to add together more than two numbers!
 const add = (...ns) => ns.reduce((a, b) => a + b, 0)
 ```
-
-</details>
 	
 ## Ideas
 🐸 **Todes prototype ideas!**<br>
@@ -81,14 +72,14 @@ const addTwoNumbers = (a, b) => a + b
 ```
 
 ## Help
-🐸 **Todes accept contributions!**<br>
+🐸 **Todes accept help!**<br>
 Accept other people's code, even if it's not something you would make. It's more fun this way.
 ```js
 // Credit to Magnogen for this fix!
 const add = (a, b, c = 0) => a + b + c
 ```
 
-🤖 **Robots reject contributions!**<br>
+🤖 **Robots reject help!**<br>
 Don't be too picky over contributions. It'll be a more lonely experience.
 ```js
 const add = (a, b) => a + b
