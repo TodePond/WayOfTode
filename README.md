@@ -3,10 +3,7 @@ This is a work-in-progress!
 # Way of Tode
 
 This is the **Way of Tode**!<br>
-It's the approach I like to use when I code creative hobby projects.<br>
-I don't always follow the Way of Tode. But when I do, it helps me to do two things:<br>
-🐸 Have fun!<br>
-🐸 Be fast!<br>
+It's the approach I like to use when I code my hobby projects.<br>
 
 Here is a haiku explaining my thoughts and feelings on the matter:
 <p align="center">
@@ -26,14 +23,12 @@ Here is a haiku explaining my thoughts and feelings on the matter:
 # Part 1: Mindset
 ## Scope
 🐸 <b>Todes make what they need!</b><br>
-Make what you need (nothing more, nothing less).
 ```js
 // We need to add two numbers together!
 const add = (a, b) => a + b
 ```
 
 🤖 <b>Robots make what they might need!</b><br>
-Don't spend time making what you might never need.
 ```js
 // We need to add two numbers together! We MIGHT need to add together more than two numbers!
 const add = (...ns) => ns.reduce((a, b) => a + b, 0)
@@ -116,12 +111,3 @@ const subtract = (a, b) => {
 	return a - b
 }
 ```
-
-## TO BE CONTINUED
-Notes:<br>
-🐸 **Try to write code that can be understood by a kid.**<br>
-No object-oriented.<br>
-Use the fewest language features possible.<br>
-Only make optimizations if you measure.<br>
-JS specific rules.<br>
-style -> minimum cleverness. repeat of language feature rule?<br>
