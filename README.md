@@ -21,8 +21,8 @@ Here is a haiku explaining my thoughts and feelings on the matter:
 **Part 2**: [Style](#part-2-style)<br>
 
 # Part 1: Mindset
-## Scope
-🐸 <b>Todes make what they need!</b><br>
+## Need
+🐸 **Todes make what they need!**
 ```js
 // We need to add two numbers together!
 const add = (a, b) => a + b
@@ -35,29 +35,25 @@ const add = (...ns) => ns.reduce((a, b) => a + b, 0)
 ```
 	
 ## Ideas
-🐸 **Todes prototype ideas!**<br>
-If you have an idea, make it NOW. You will learn something from it.
+🐸 **Todes make ideas!**<br>
 ```js
 // This is my idea for adding two numbers together!
 const add = (a, b) => a + b
 ```
 
 🤖 **Robots think about ideas!**<br>
-If you have an idea, don't just think about it. You will learn more from trying to make it.
 ```js
 // I have an idea for adding two numbers together... but I haven't made it yet!
 ```
 
-## Attachment
+## Delete
 🐸 **Todes delete old code!**<br>
-Delete code if you need to.
 ```js
 // I deleted my old code and replaced it with this new code!
 const add = (a, b) => a + b
 ```
 
 🤖 **Robots keep old code!**<br>
-Don't grow attached to code. Every line of code is temporary. Every line of code is waiting to be replaced by something better.
 ```js
 // This is my old code! I don't want to delete it!
 const add = (...ns) => ns.reduce((a, b) => a + b, 0)
@@ -68,14 +64,12 @@ const addTwoNumbers = (a, b) => a + b
 
 ## Help
 🐸 **Todes accept help!**<br>
-Accept other people's code, even if it's not something you would make. It's more fun this way.
 ```js
 // Credit to Magnogen for this fix!
 const add = (a, b, c = 0) => a + b + c
 ```
 
 🤖 **Robots reject help!**<br>
-Don't be too picky over contributions. It'll be a more lonely experience.
 ```js
 const add = (a, b) => a + b
 ```
@@ -83,30 +77,26 @@ const add = (a, b) => a + b
 # Part 2: Style
 ## Consistency
 🐸 **Todes mix styles!**<br>
-You can mix different styles together, such as tabs and spaces.
-
 ```js
-// This is good!
+// This is fine!
 const add = (a, b) => {
 	return a + b
 }
 
-// This is also good!
+// This is also fine!
 function subtract( a, b ) {
   return a-b;
 }
 ```
 
 🤖 **Robots make styles consistent!**<br>
-Don't spend time trying to make everyone's code the same style. It's like trying to make everyone's handwriting the same.
-
 ```js
-// This is good!
+// This is correct!
 const add = (a, b) => {
 	return a + b
 }
 
-// This is also good, but some personality was lost!
+// This is also correct!
 const subtract = (a, b) => {
 	return a - b
 }
