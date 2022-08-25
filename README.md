@@ -31,7 +31,7 @@ const add = (a, b) => a + b
 🤖 <b>Robots make what they might need!</b><br>
 ```js
 // We need to add two numbers together! We MIGHT need to add together more than two numbers!
-const add = (...ns) => ns.reduce((a, b) => a + b, 0)
+const add = (...numbers) => numbers.reduce((a, b) => a + b, 0)
 ```
 	
 ## Ideas
@@ -56,7 +56,7 @@ const add = (a, b) => a + b
 🤖 **Robots keep old code!**<br>
 ```js
 // This is my old code! I don't want to delete it!
-const add = (...ns) => ns.reduce((a, b) => a + b, 0)
+const add = (...numbers) => numbers.reduce((a, b) => a + b, 0)
 
 // This is my new code!
 const addTwoNumbers = (a, b) => a + b
