@@ -65,7 +65,7 @@ const addTwoNumbers = (a, b) => a + b
 ## Help
 🐸 **Todes accept help!**<br>
 ```js
-// Credit to Magnogen for this fix!
+// Credit to Berd for this fix!
 const add = (a, b, c = 0) => a + b + c
 ```
 
@@ -85,7 +85,7 @@ const add = (a, b) => {
 
 // This is also fine!
 function subtract( a, b ) {
-  return a-b;
+   return a-b;
 }
 ```
 
